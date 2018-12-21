@@ -1,0 +1,15 @@
+package ast
+
+var keywordTrue = str("true")
+var keywordFalse = str("false")
+var keywordModel = str("model")
+var keywordScalar = str("scalar")
+var keywordEnum = str("enum")
+var keywordStruct = str("struct")
+var keywordEntity = str("entity")
+var keywordUser = str("user")
+var keywordCache = str("cache")
+var keywordAccess = str("access")
+var keywordExtend = str("extend")
+var keywordError = str("error")
+var keywordErrors = str("errors")
